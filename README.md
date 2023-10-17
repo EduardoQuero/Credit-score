@@ -16,7 +16,7 @@ Repositório referente ao **primeiro projeto** do curso [Profissão: Cientista d
 
 ---
 
-## [Dataset](colocar o link aqui demo01.csv)
+## [Dataset]([colocar o link aqui demo01.csv](https://raw.githubusercontent.com/EduardoQuero/Credit-score/main/demo01.csv))
 
 ### Dicionário de dados
 
